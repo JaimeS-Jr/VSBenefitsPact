@@ -33,8 +33,8 @@
         <div class="container">
           <div class="row">
 
-            <div id="logo-region" class="logo col-md-3 text-center-sm">
-              <a href="index.html"><img src="logo.png" alt="logo" class="img-responsive" /></a>
+            <div id="logo-region" class="logo col-md-2 text-center-sm">
+              <a href="index.html"><img src="vsbenefitlogo.png" alt="logo" class="img-responsive" style="margin-top: 10px;"/></a>
             </div> <!-- /logo-region -->
 
             <div id="menu-region" class="col-md-9">
@@ -48,65 +48,20 @@
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
                   <ul class="nav navbar-right navbar-nav">
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="index.html">Home Standard</a></li>
-                        <li><a href="index-2.html">Home Alternative</a></li>
-                        <li><a href="index-3.html">Home Agency</a></li>
-                      </ul>
+                      <a href="index.html" class="dropdown-toggle">Home</a>
                     </li>
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="page-about.html">About</a></li>
-                        <li><a href="page-about-me.html">About Me</a></li>
-                      </ul>
+                      <a href="page-about.html" class="dropdown-toggle">About Us</a>
                     </li>
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="page-services.html">Services</a></li>
-                        <li><a href="page-faq.html">FAQ</a></li>
-                        <li><a href="page-404.html">404 page</a></li>
-                        <li><a href="page-403.html">403 page</a></li>
-                        <li><a href="page-maintenance.html">Maintenance page</a></li>
-                        <li><a href="page-construction.html">Under Construction</a></li>
-                      </ul>
+                      <a href="page-services.html" class="dropdown-toggle">Products and Services</a>
                     </li>
-                    <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Features</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="page-elements.html">Elements</a></li>
-                        <li><a href="header-1.html">Header 1</a></li>
-                        <li><a href="header-2.html">Header 2</a></li>
-                        <li><a href="header-3.html">Header 3 Sticky</a></li>
-                        <li><a href="footer-1.html">Footer 1</a></li>
-                        <li><a href="footer-2.html">Footer 2</a></li>
-                        <li><a href="footer-3.html">Footer 3</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown">
-                      <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="blog.html">Blog (no sidebar)</a></li>
-                        <li><a href="blog-single.html">Blog single</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown">
-                      <a href="portfolio.html" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="portfolio.html">Portfolio (3 Columns)</a></li>
-                        <li><a href="portfolio-2.html">Portfolio (2 Columns)</a></li>
-                        <li><a href="portfolio-single.html">Portfolio single</a></li>
-                        <li><a href="gallery.html">Gallery (3 Columns)</a></li>
-                        <li><a href="gallery-2.html">Gallery (2 Columns)</a></li>
-                      </ul>
-                    </li>
-                    <li class="active"><a href="contact.php">Contact</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                   </ul>
                 </div> <!-- /navbar-collapse -->
               </nav>
             </div> <!-- /menu-region -->
+
 
           </div> <!-- /row -->
         </div> <!-- container -->
@@ -126,20 +81,6 @@
               </div> <!-- /region -->
             </div> <!-- /top-content-left-region -->
 
-            <div id="top-content-right-region" class="top-content-right col-xs-12 col-md-6 text-right text-center-sm">
-              <div class="region">
-
-                <div id="page-breadcrumbs-block" class="page-breadcrumbs block">
-                  <div class="breadcrumbs">
-                    <a href="index.html">Home</a>
-                    <span class="delimiter">›</span>
-                    Contact
-                  </div> <!-- /breadcrumbs -->
-                </div> <!-- /page-breadcrumbs-block -->
-
-              </div> <!-- /region -->
-            </div> <!-- /top-content-right-region -->
-
           </div> <!-- /row -->
         </div> <!-- /container -->
       </div> <!-- /top-content-region -->
@@ -152,14 +93,13 @@
 
               <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-2">
                 <h5>Address</h5>
-                <p>Come visit us at:</p>
-                <p>795 Fake Ave, Door 6<br>Wonderland, CA 94107<br>USA</p>
+                <p>2050 Main Street Suite #520
+                <br>Irvine, CA 92614</p>
               </div>
-
               <div class="col-xs-12 col-sm-6 col-md-4 margin-top-xs-40">
-                <h5>Contact Us</h5>
-                <p><b>Phone:</b> +351123456789<br><b>Fax:</b> +351987654321</p>
-                <p><a href="mailto:test@nestor.pt">info@nestor.pt</a><br><a href="mailto:test@nestor.pt">support@nestor.pt</a></p>
+                <h5>Phone/Email</h5>
+                <p><b>Phone:</b> +1 (351) 123-4567</p>
+                <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
               </div>
 
             </div> <!-- /row -->
@@ -275,10 +215,6 @@
 
       </div> <!-- /content-region -->
 
-      <div id="map-region">
-        <div id="map_canvas" class="google-map"></div>
-      </div> <!-- /map-region -->
-
       <div id="footer-columns-region" class="footer-columns region-30 block-30 bg-color-grayDark2 text-color-light">
         <div class="container">
           <div class="row">
@@ -288,18 +224,16 @@
 
                 <div id="footer-address-block" class="footer-address block">
                   <i class="icon ion-ios7-location-outline size-32 margin-bottom-20"></i>
-                  <p>795 Fake Ave, Door 6<br />Wonderland, CA 94107</p>
+                  <p>2050 Main Street Suite #520 <br />Irvine, CA 92614</p>
                 </div> <!-- /footer-address-block -->
-
               </div> <!-- /region -->
             </div> <!-- /footer-first-column-region -->
-
             <div id="footer-second-column-region" class="footer-second-column col-xs-12 col-md-4 text-center">
               <div class="region">
 
                 <div id="footer-mail-block" class="footer-mail block">
                   <i class="icon ion-ios7-email-outline size-32 margin-bottom-20"></i>
-                  <p><a href="mailto:test@nestor.pt">info@nestor.pt</a><br /><a href="mailto:test@nestor.pt">support@nestor.pt</a></p>
+                  <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</p>
                 </div> <!-- /footer-mail-block -->
 
               </div> <!-- /region -->
@@ -310,7 +244,7 @@
 
                 <div id="footer-phone-block" class="footer-phone block">
                   <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
-                  <p>+351123456789<br />+351987654321</p>
+                  <p> +1 (351) 123-4567</p>
                 </div> <!-- /footer-phone-block -->
 
               </div> <!-- /region -->
@@ -323,78 +257,10 @@
       <footer class="region-10 block-10 bg-color-grayDark1 text-color-light">
         <div class="container">
           <div class="row">
-
-            <div id="footer-left-region" class="footer-left region-bottom-sm-0 col-xs-12 col-md-6 text-center-sm">
-              <div class="region">
-
-                <div id="copyright-block" class="block">
-                  <p>Nestor was developed by <a href="http://leaftree.pt">leaftree</a></p>
-                </div> <!-- /copyright-block -->
-
-              </div> <!-- /region -->
-            </div> <!-- /footer-left-region -->
-
-            <div id="footer-right-region" class="footer-right region-top-sm-0 col-xs-12 col-md-6 text-right text-center-sm">
-              <div class="region">
-
-                <div id="social-networks-footer-block" class="social-networks-footer block">
-                  <a href="http://facebook.com"><i class="icon ion-social-facebook"></i></a>
-                  <a href="http://twitter.com"><i class="icon ion-social-twitter"></i></a>
-                  <a href="http://linkedin.com"><i class="icon ion-social-linkedin"></i></a>
-                  <a href="http://pinterest.com"><i class="icon ion-social-pinterest"></i></a>
-                  <a href="http://vimeo.com"><i class="icon ion-social-vimeo"></i></a>
-                  <a href="http://dribbble.com"><i class="icon ion-social-dribbble-outline"></i></a>
-                  <a href="http://github.com"><i class="icon ion-social-github"></i></a>
-                </div> <!-- /social-networks-footer -->
-
-              </div> <!-- /region -->
-            </div> <!-- /footer-right-region -->
-
           </div> <!-- /row -->
         </div> <!-- /container -->
       </footer>
     </div> <!-- /main-wrapper -->
-
-    <!-- Demo switcher -->
-
-    <div class="switcher">
-      <a href="#" class="link"><i class="icon ion-levels size-32"></i></a>
-      <p class="title">Settings</p>
-
-      <div class="themeOptions">
-        <p>Theme Colors</p>
-        <ul class="themeColors optionList">
-          <li><a href="#" class="aqua"></a></li>
-          <li><a href="#" class="blue"></a></li>
-          <li><a href="#" class="brown"></a></li>
-          <li><a href="#" class="emerald"></a></li>
-          <li><a href="#" class="green"></a></li>
-          <li><a href="#" class="orange"></a></li>
-          <li><a href="#" class="red"></a></li>
-          <li><a href="#" class="violet"></a></li>
-          <li><a href="#" class="yellow"></a></li>
-        </ul>
-
-        <p>Layout</p>
-        <select class="themeLayout">
-          <option value="wide">wide</option>
-          <option value="boxed">boxed</option>
-        </select>
-
-        <p>BG Patterns</p>
-        <ul class="themePatterns optionList">
-          <li><a href="#" class="bg-pattern-cross_scratches"></a></li>
-          <li><a href="#" class="bg-pattern-concrete_wall_3"></a></li>
-          <li><a href="#" class="bg-pattern-cream_pixels"></a></li>
-          <li><a href="#" class="bg-pattern-debut_dark"></a></li>
-          <li><a href="#" class="bg-pattern-grey_wash_wall"></a></li>
-          <li><a href="#" class="bg-pattern-retina_wood"></a></li>
-        </ul>
-      </div> <!-- /themeOptions -->
-
-    </div> <!-- /switcher -->
-
-    <!-- End of demo switcher -->
 
     <!-- Back to top button -->
 
