@@ -75,7 +75,7 @@
               <div class="region">
 
                 <div id="page-title-block" class="page-title block">
-                  <h1>Contact</h1>
+                  <h1>Contact Us</h1>
                 </div> <!-- /page-title-block -->
 
               </div> <!-- /region -->
