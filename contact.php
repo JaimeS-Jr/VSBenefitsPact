@@ -87,6 +87,18 @@
 
       <div id="content-region" class="content region">
 
+        <div id="about-content-block" class="about-content block">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12 col-md-offset-2 col-md-8">
+                <img src="img/highlighted/laptopcoffeetablet.jpg" class="img-responsive img-full-width" />
+              </div> <!-- /col-xs-12 -->
+            </div> <!-- /row -->
+          </div> <!-- /container -->
+        </div> <!-- /intro-image-content-block -->
+
+      <div id="content-region" class="content region">
+
         <div id="contacts-block" class="contacts block">
           <div class="container">
             <div class="row">
@@ -98,8 +110,8 @@
               </div>
               <div class="col-xs-12 col-sm-6 col-md-4 margin-top-xs-40">
                 <h5>Phone/Email</h5>
-                <p><b>Phone:</b> +1 (351) 123-4567</p>
-                <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
+                <p><b>Phone:</b> +1 (351) 123-4567
+                <br><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
               </div>
 
             </div> <!-- /row -->
