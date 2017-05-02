@@ -67,7 +67,7 @@
         </div> <!-- container -->
       </header>
 
-      <div id="top-content-region" class="top-content region-0 padding-top-15 padding-bottom-15 block-15 bg-color-grayLight1">
+      <div id="top-content-region" class="top-content region-0 padding-top-10 padding-bottom-10 block-5 bg-color-grayLight1">
         <div class="container">
           <div class="row">
 
