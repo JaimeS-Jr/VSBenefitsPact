@@ -90,7 +90,7 @@
         <div id="about-content-block" class="about-content block">
           <div class="container">
             <div class="row">
-              <div class="col-xs-12 col-md-offset-2 col-md-8">
+              <div class="col-xs-12 col-md-offset-3 col-md-6">
                 <img src="img/highlighted/laptopcoffeetablet.jpg" class="img-responsive img-full-width" />
               </div> <!-- /col-xs-12 -->
             </div> <!-- /row -->
@@ -103,7 +103,7 @@
           <div class="container">
             <div class="row">
 
-              <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-2">
+              <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-3">
                 <h5>Address</h5>
                 <p>2050 Main Street Suite #520
                 <br>Irvine, CA 92614</p>
@@ -227,52 +227,54 @@
 
       </div> <!-- /content-region -->
 
-      <div id="footer-columns-region" class="footer-columns region-30 block-30 bg-color-grayDark2 text-color-light">
-        <div class="container">
-          <div class="row">
 
-            <div id="footer-first-column-region" class="footer-first-column col-xs-12 col-md-4 text-center">
-              <div class="region">
-
-                <div id="footer-address-block" class="footer-address block">
-                  <i class="icon ion-ios7-location-outline size-32 margin-bottom-20"></i>
-                  <p>2050 Main Street Suite #520 <br />Irvine, CA 92614</p>
-                </div> <!-- /footer-address-block -->
-              </div> <!-- /region -->
-            </div> <!-- /footer-first-column-region -->
-            <div id="footer-second-column-region" class="footer-second-column col-xs-12 col-md-4 text-center">
-              <div class="region">
-
-                <div id="footer-mail-block" class="footer-mail block">
-                  <i class="icon ion-ios7-email-outline size-32 margin-bottom-20"></i>
-                  <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</p>
-                </div> <!-- /footer-mail-block -->
-
-              </div> <!-- /region -->
-            </div>  <!-- /footer-second-column-region -->
-
-            <div id="footer-third-column-region" class="footer-third-column col-xs-12 col-md-4 text-center">
-              <div class="region">
-
-                <div id="footer-phone-block" class="footer-phone block">
-                  <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
-                  <p>Bev: (949) 873-4099<br>Erica: (949) 667-2108</p>
-                </div> <!-- /footer-phone-block -->
-
-              </div> <!-- /region -->
-            </div>  <!-- /footer-third-column-region -->
-
-          </div> <!-- /row -->
-        </div> <!-- /container -->
-      </div> <!-- /footer-columns-region -->
-
-      <footer class="region-10 block-10 bg-color-grayDark1 text-color-light">
-        <div class="container">
-          <div class="row">
-          </div> <!-- /row -->
-        </div> <!-- /container -->
-      </footer>
     </div> <!-- /main-wrapper -->
+
+    <div id="footer-columns-region" class="footer-columns region-30 block-30 bg-color-grayDark2 text-color-light">
+      <div class="container">
+        <div class="row">
+
+          <div id="footer-first-column-region" class="footer-first-column col-xs-12 col-md-4 text-center">
+            <div class="region">
+
+              <div id="footer-address-block" class="footer-address block">
+                <i class="icon ion-ios7-location-outline size-32 margin-bottom-20"></i>
+                <p>2050 Main Street Suite #520 <br />Irvine, CA 92614</p>
+              </div> <!-- /footer-address-block -->
+            </div> <!-- /region -->
+          </div> <!-- /footer-first-column-region -->
+          <div id="footer-second-column-region" class="footer-second-column col-xs-12 col-md-4 text-center">
+            <div class="region">
+
+              <div id="footer-mail-block" class="footer-mail block">
+                <i class="icon ion-ios7-email-outline size-32 margin-bottom-20"></i>
+                <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</p>
+              </div> <!-- /footer-mail-block -->
+
+            </div> <!-- /region -->
+          </div>  <!-- /footer-second-column-region -->
+
+          <div id="footer-third-column-region" class="footer-third-column col-xs-12 col-md-4 text-center">
+            <div class="region">
+
+              <div id="footer-phone-block" class="footer-phone block">
+                <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
+                <p>Bev: (949) 873-4099<br>Erica: (949) 667-2108</p>
+              </div> <!-- /footer-phone-block -->
+
+            </div> <!-- /region -->
+          </div>  <!-- /footer-third-column-region -->
+
+        </div> <!-- /row -->
+      </div> <!-- /container -->
+    </div> <!-- /footer-columns-region -->
+
+    <footer class="region-10 block-10 bg-color-grayDark1 text-color-light">
+      <div class="container">
+        <div class="row">
+        </div> <!-- /row -->
+      </div> <!-- /container -->
+    </footer>
 
     <!-- Back to top button -->
 
