@@ -61,8 +61,6 @@
                 </div> <!-- /navbar-collapse -->
               </nav>
             </div> <!-- /menu-region -->
-
-
           </div> <!-- /row -->
         </div> <!-- container -->
       </header>
@@ -70,17 +68,13 @@
       <div id="top-content-region" class="top-content region-0 padding-top-10 padding-bottom-10 block-5 bg-color-grayLight1">
         <div class="container">
           <div class="row">
-
             <div id="top-content-left-region" class="top-content-left col-xs-12 col-md-6 text-center-sm">
               <div class="region">
-
                 <div id="page-title-block" class="page-title block">
                   <h1>Contact Us</h1>
                 </div> <!-- /page-title-block -->
-
               </div> <!-- /region -->
             </div> <!-- /top-content-left-region -->
-
           </div> <!-- /row -->
         </div> <!-- /container -->
       </div> <!-- /top-content-region -->
@@ -110,7 +104,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 col-md-4 margin-top-xs-40">
                 <h5>Phone/Email</h5>
-                <p><b>Phone:</b> +1 (351) 123-4567
+                <p>Bev: (949) 873-4099<br />Erica: (949) 667-2108</p>
                 <br><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
               </div>
 
@@ -165,7 +159,7 @@
                     }
 
                     if (!$errors) {
-                      $mail_to = 'youremail@yourdomain.com';
+                      $mail_to = 'info@vsbenefitspact.com';
                       $subject = "Nestor HTML: " . $_POST['contact-subject'];
                       $message  = 'From: ' . $_POST['contact-name'] . "<br>";
                       $message .= 'Email: ' . $email . "<br><br>";
@@ -220,14 +214,10 @@
                 </form>
 
               </div> <!-- /col-xs-12 -->
-
             </div> <!-- /row -->
           </div> <!-- /container -->
         </div> <!-- /contact-content-block -->
-
       </div> <!-- /content-region -->
-
-
     </div> <!-- /main-wrapper -->
 
     <div id="footer-columns-region" class="footer-columns region-30 block-30 bg-color-grayDark2 text-color-light">
@@ -236,7 +226,6 @@
 
           <div id="footer-first-column-region" class="footer-first-column col-xs-12 col-md-4 text-center">
             <div class="region">
-
               <div id="footer-address-block" class="footer-address block">
                 <i class="icon ion-ios7-location-outline size-32 margin-bottom-20"></i>
                 <p>2050 Main Street Suite #520 <br />Irvine, CA 92614</p>
@@ -250,21 +239,17 @@
                 <i class="icon ion-ios7-email-outline size-32 margin-bottom-20"></i>
                 <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</p>
               </div> <!-- /footer-mail-block -->
-
             </div> <!-- /region -->
           </div>  <!-- /footer-second-column-region -->
 
           <div id="footer-third-column-region" class="footer-third-column col-xs-12 col-md-4 text-center">
             <div class="region">
-
               <div id="footer-phone-block" class="footer-phone block">
                 <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
                 <p>Bev: (949) 873-4099<br>Erica: (949) 667-2108</p>
               </div> <!-- /footer-phone-block -->
-
             </div> <!-- /region -->
           </div>  <!-- /footer-third-column-region -->
-
         </div> <!-- /row -->
       </div> <!-- /container -->
     </div> <!-- /footer-columns-region -->
