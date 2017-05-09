@@ -137,7 +137,7 @@
 
                     if (!$errors) {
                       $mail_to = 'info@vsbenefitspact.com';
-                      $subject = "Nestor HTML: " . $_POST['contact-subject'];
+                      $subject = "VSBenefitsPact Contact Form: " . $_POST['contact-subject'];
                       $message  = 'From: ' . $_POST['contact-name'] . "<br>";
                       $message .= 'Email: ' . $email . "<br><br>";
                       $message .= "Message:<br>" . stripslashes($_POST['contact-message']) . "<br><br>";
