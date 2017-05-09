@@ -91,31 +91,10 @@
           </div> <!-- /container -->
         </div> <!-- /intro-image-content-block -->
 
-      <div id="content-region" class="content region">
-
-        <div id="contacts-block" class="contacts block">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-3">
-                <h5>Address</h5>
-                <p>2050 Main Street Suite #520
-                <br>Irvine, CA 92614</p>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-4 margin-top-xs-40">
-                <h5>Phone</h5>
-                <p>Bev: (949) 873-4099<br />Erica: (949) 667-2108</p>
-              </div>
-            </div> <!-- /row -->
-          </div> <!-- /container -->
-        </div> <!-- /contacts-block -->
-
         <div id="contact-content-block" class="contact-content block">
           <div class="container">
             <div class="row">
-
               <div class="col-xs-12 col-md-8 col-md-offset-2">
-
                 <?php
 
                   if (isset($_POST['submit'])) {
