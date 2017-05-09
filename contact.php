@@ -103,11 +103,9 @@
                 <br>Irvine, CA 92614</p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-4 margin-top-xs-40">
-                <h5>Phone/Email</h5>
+                <h5>Phone</h5>
                 <p>Bev: (949) 873-4099<br />Erica: (949) 667-2108</p>
-                <br><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
               </div>
-
             </div> <!-- /row -->
           </div> <!-- /container -->
         </div> <!-- /contacts-block -->
