@@ -34,7 +34,7 @@
           <div class="row">
 
             <div id="logo-region" class="logo col-md-2 text-center-sm">
-              <a href="index.html"><img src="vsbenefitlogo.png" alt="logo" class="img-responsive" style="margin-top: 10px;"/></a>
+              <a href="index.html"><img src="vsbenefitlogo.png" alt="logo" class="img-responsive" style="margin-top: 10px; margin-bottom: 10px;"/></a>
             </div> <!-- /logo-region -->
 
             <div id="menu-region" class="col-md-9">
