@@ -85,7 +85,7 @@
           <div class="container">
             <div class="row">
               <div class="col-xs-12 col-md-offset-3 col-md-6">
-                <img src="img/highlighted/laptopcoffeetablet.jpg" class="img-responsive img-full-width" />
+                <img src="img/highlighted/laptopcoffeetablet_opt.jpg" class="img-responsive img-full-width" />
               </div> <!-- /col-xs-12 -->
             </div> <!-- /row -->
           </div> <!-- /container -->
@@ -219,17 +219,17 @@
             </div> <!-- /region -->
           </div>  <!-- /footer-second-column-region -->
 
-          <div id="footer-third-column-region" class="footer-third-column col-xs-12 col-md-4 text-center">
-            <div class="region">
-              <div id="footer-phone-block" class="footer-phone block">
-                <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
-                <p>Bev: (949) 873-4099<br>Erica: (949) 667-2108</p>
-              </div> <!-- /footer-phone-block -->
-            </div> <!-- /region -->
-          </div>  <!-- /footer-third-column-region -->
-        </div> <!-- /row -->
-      </div> <!-- /container -->
-    </div> <!-- /footer-columns-region -->
+            <div id="footer-third-column-region" class="footer-third-column col-xs-12 col-md-4 text-center">
+              <div class="region">
+                <div id="footer-phone-block" class="footer-phone block">
+                  <i class="icon ion-ios7-telephone-outline size-32 margin-bottom-20"></i>
+                  <p>Bev: (949) 873-4099<br>Erica: (949) 667-2108</p>
+                </div> <!-- /footer-phone-block -->
+              </div> <!-- /region -->
+            </div>  <!-- /footer-third-column-region -->
+          </div> <!-- /row -->
+        </div> <!-- /container -->
+      </div> <!-- /footer-columns-region -->
 
     <footer class="region-10 block-10 bg-color-grayDark1 text-color-light">
       <div class="container">
