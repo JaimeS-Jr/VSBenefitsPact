@@ -214,7 +214,7 @@
 
               <div id="footer-mail-block" class="footer-mail block">
                 <i class="icon ion-ios7-email-outline size-32 margin-bottom-20"></i>
-                <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</p>
+                <p><a href="mailto:info@vsbenefitspact.com">info@vsbenefitspact.com</a></p>
               </div> <!-- /footer-mail-block -->
             </div> <!-- /region -->
           </div>  <!-- /footer-second-column-region -->
